@@ -5,4 +5,4 @@ Container de imagens fixa em  HTMl
 Fundo simples  em CSS
 Texto digitado em Javascript
 Veja mais em:
-http://www.then.thenilson.top/oracao/
+http://www.thenilson.com/oracao/
